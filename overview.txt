@@ -1,2 +1,0 @@
-This repo will consist of small practice problems done on a 
-daily and weekly basis. Scripts will be written in Python and JavaScript
