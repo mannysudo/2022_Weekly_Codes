@@ -1,0 +1,22 @@
+{
+  "name": "2022_weekly_codes",
+  "version": "1.0.0",
+  "description": "Repository for JavaScript practice code",
+  "main": "queue.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannysudo/2022_Weekly_Codes.git"
+  },
+  "author": "Manuel Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannysudo/2022_Weekly_Codes/issues"
+  },
+  "homepage": "https://github.com/mannysudo/2022_Weekly_Codes#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
